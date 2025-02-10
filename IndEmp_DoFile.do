@@ -1,11 +1,11 @@
 *****************************************************************************
 *****************************************************************************
 *****************************************************************************
-* Replication Material: Industrial Employment and Populism in Germany -		*
-* Exploring the Effect of Actual and Looming Decline		 				*
-* Authors: Michael Bayerlein, Julius Kölzer, and Anne Metten 				*
-* Corresponding Author: Michael Bayerlein (michael.bayerlein@charite.de)	*
-* Version 1.0, Date: 10.02.2025												*
+* Replication Material: Industrial Employment and Populism in Germany -
+* Exploring the Effect of Actual and Looming Decline
+* Authors: Michael Bayerlein, Julius Kölzer, and Anne Metten 
+* Corresponding Author: Michael Bayerlein (michael.bayerlein@charite.de)
+* Version 1.0, Date: 10.02.2025
 *****************************************************************************
 *****************************************************************************
 *****************************************************************************
