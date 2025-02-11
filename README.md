@@ -2,7 +2,7 @@
 
 ## Industrial Employment and Populism in Germany - Exploring the Effect of Actual and Looming Decline
 **by Michael Bayerlein, Julius Kölzer and Anne Metten** \
-**Politische Vierteljahresschrift**
+**Politische Vierteljahresschrift XX(YY): AA-BB**
 
 The replication material includes three resources: our dataset (IndEmp_Data.dta), the coordinates used for mapping the data (IndEmp_Map.dta), and our Do-File (IndEmp_DoFile.do). The Do-File was written and executed in Stata 18.0 MP. Please note that part of the analysis was conducted using the SOEP Remote Access. This section of the Do-File is for display purposes only.
 
